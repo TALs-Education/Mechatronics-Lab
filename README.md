@@ -73,3 +73,5 @@
 - [Alvik Documentation](https://docs.arduino.cc/hardware/alvik/)
 - [MicroPython Examples](https://github.com/arduino/arduino-alvik-mpy/tree/main/examples)
 
+## 🔗 Alvik Arena
+![Alvik Arena](https://github.com/TALs-Education/Mechatronics-Lab/blob/main/Media/Arena3dModel.jpg)
