@@ -1,0 +1,7 @@
+syllabus:
+Lesson 1: Introduction to embedded systems, arduino uno, Alvik Platform
+Lesson 2: Introduction to sensors and actuators.
+Lesson 3: 3d Design for 3D printing
+Lesson 4: Introduction to electrical design
+Lesson 5: Advanced Embedded systems
+Lesson 6-10: Sumo competition using Alvik platform with custom adaptations of 3d printed parts and actuators.

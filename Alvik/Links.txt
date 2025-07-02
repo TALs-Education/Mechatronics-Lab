@@ -1,0 +1,27 @@
+Tutorial:
+https://docs.arduino.cc/tutorials/alvik/user-manual/
+https://docs.arduino.cc/hardware/alvik/
+
+MicroPython:
+Installer:
+https://docs.arduino.cc/micropython/first-steps/install-guide/
+https://github.com/arduino/lab-micropython-installer/releases/tag/v1.4.0
+Online IDE
+https://lab-micropython.arduino.cc/
+https://labs.arduino.cc/en/labs/micropython
+Online Update Tool
+https://alvikupdate.arduino.cc/
+update tytorial:
+https://github.com/arduino/arduino-alvik-mpy?tab=readme-ov-file
+
+Arduino:
+https://docs.arduino.cc/tutorials/alvik/setting-alvik-arduino-ide/
+API:
+https://docs.arduino.cc/tutorials/alvik/api-overview/
+
+Side Kick V2
+https://wiki.seeedstudio.com/Sidekick_Basic_Kit_for_Arduino_V2/
+https://www.seeedstudio.com/Sidekick-Basic-Kit-for-Arduino-V2-p-1858.html?srsltid=AfmBOooLDOs83uDPQpkSrEa0KYMIhE2OIxMpsF5ay_3qKWUsx7bsjOJX
+
+
+
