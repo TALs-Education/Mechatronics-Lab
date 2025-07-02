@@ -1,4 +1,4 @@
-# 📘 Mechatronics Lab – Short Syllabus
+# 📘 Mechatronics Lab
 **Mechanical Engineering – Tel Aviv University**  
 **Arduino Uno & Alvik Platform**
 
